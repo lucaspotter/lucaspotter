@@ -54,7 +54,7 @@ You can <i>say</i> you're from Ohio, but then there will be consequences<br><br>
 <dl>
   <dt>RPI Stock Ticker</dt>
   <dd>- Questionable LCD plus Joystick = Controllable Thing™</dd>
-  <dt>Silver 'n Gold'</dt>
+  <dt>Silver 'n Gold</dt>
   <dd>- 1848 simulator with stock market aspects</dd>
 </dl>
 </h2>

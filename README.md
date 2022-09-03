@@ -15,7 +15,7 @@ You can <i>say</i> you're from Ohio, but then there will be consequences<br><br>
 <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white title="champion19099#5522"></img>
 <a href=https://github.com/lucaspotter><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white title="Wait..."></img></a>
 <a href=mailto:birdofblue82@tutanota.com><img src=https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white></img></a>
-<a href=https://lucaspotter.ml><img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white></img></a>
+<a href=https://lucaspotter.me><img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white></img></a>
 </h2>
 
 <h2 align="center">My rigs<br><br>

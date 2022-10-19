@@ -68,6 +68,8 @@ You can <i>say</i> you're from Ohio, but then there will be consequences<br>
 <dl align="center">
   <dt>Why is the second rig so bad?</dt>
   <dd>- That rig is currently in my basement as a server for some home testing</dd>
+  <dt>Can I-?</dt>
+  <dd>- You will never get my server ip</dd>
   <dt>Will you ever put proper comments in your code?</dt>
   <dd>- That depends on my state of mind at the time of writing</dd>
 </dl>
